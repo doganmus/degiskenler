@@ -1,2 +1,2 @@
-# degiskenler
-değişkenler ödevi
+## Patika.dev 
+Değişkenler ödevi
